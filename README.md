@@ -1,6 +1,7 @@
 ### Hi there  👋 
 
-    🐍 I have prior experience in Python, recognizing its versatility and power as an indispensable language for efficient development and automation.
+    🐍 I have prior experience in Python, recognizing its versatility and power as an indispensable language
+       for efficient development and automation.
 
     📊 I want to deepen my knowledge of SQL for effective data analysis.
 
