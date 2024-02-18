@@ -1,6 +1,6 @@
 ### Hi there  👋 
 
-    🐍 I have prior experience in Python, recognizing its versatility and power as an indispensable language 
+    🐍 I have prior experience in Python, recognizing its versatility and power as an indispensable language
        for efficient development and automation.
 
     📊 I want to deepen my knowledge of SQL for effective data analysis.
@@ -14,11 +14,16 @@
 
 -------------------------
 ### Technologies ⚙️
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-AWS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Felipe-Python" 
+  height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felipe-MySQL" 
+  height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Felipe-PowerBI" 
+  height="35" width="55" src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2013.png">
+</div>
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/)
 ------------------------
 ### Stats 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoura11&layout=compact&theme=dracula)
