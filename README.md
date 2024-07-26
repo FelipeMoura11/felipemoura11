@@ -15,13 +15,12 @@
 -------------------------
 ### Technologies ⚙️
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-AWS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Felipe-AWS" height="80" width="70" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Felipe-Python" 
-  height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-MySQL" 
-  height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Felipe-PowerBI" 
-  height="30" width="50" src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo-2016.png">
+  height="80" width="70" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuresqldatabase/azuresqldatabase-original.svg">
+ 
 
 
 </div>
