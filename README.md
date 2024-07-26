@@ -13,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipemoura.unifor@gmail.com) 
 
 -------------------------
-### Skills 🐸
+### Skills 🖥️
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-AWS" height="80" width="70" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg">
   <img align="center" alt="Felipe-Python" 
