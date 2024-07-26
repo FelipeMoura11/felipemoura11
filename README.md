@@ -27,5 +27,5 @@
 
 ------------------------ 
 ### Stats 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoura11&layout=compact&theme=dracula)
-![Felipe Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemoura11&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoura11&layout=compact&theme=github_dark )
+![Felipe Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemoura11&show_icons=true&theme=github_dark ) 
