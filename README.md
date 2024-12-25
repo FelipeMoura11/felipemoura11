@@ -5,7 +5,7 @@
 
     📊 I want to deepen my knowledge of SQL for effective data analysis.
 
-    📈 A strong interest in delving deeper into Power BI for dynamic data visualization.
+    🐳 A strong interest in delving deeper into Docker for containerization and streamlining CI/CD pipelines.
 
     ☁️ Experienced in AWS for scalable cloud solutions.
 
@@ -16,10 +16,15 @@
 ### Skills 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-AWS" height="80" width="70" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg">
+  <img align="center" alt="Felipe-Docker" 
+  height="80" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+ <img align="center" alt="Felipe-GitHubActions" 
+  height="80" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg">  
   <img align="center" alt="Felipe-Python" 
   height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-MySQL" 
   height="80" width="70" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuresqldatabase/azuresqldatabase-original.svg">
+
  
 
 
