@@ -35,7 +35,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoura11&layout=compact&theme=holi)
 ![Felipe Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemoura11&show_icons=true&theme=holi) 
 
-## 🐍 Snake Contribution Graph
+## 🐍 Snake Graph
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipemoura11/felipemoura11/output/github-contribution-grid-snake-dark.svg">
