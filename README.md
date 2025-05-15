@@ -6,13 +6,14 @@
 -------------------------
 ### Skills 💻
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-AWS" height="80" width="70" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg">
-  <img align="center" alt="Felipe-Docker" 
-  height="80" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   <img align="center" alt="Felipe-Python" 
   height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-MySQL" 
-  height="80" width="70" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Felipe-JAVA" 
+  height="80" width="70" src="https://go-skill-icons.vercel.app/api/icons?i=java&perline=3">
+  <img align="center" alt="Felipe-AWS" height="80" width="70" src="https://go-skill-icons.vercel.app/api/icons?i=aws&perline=3">
+  <img align="center" alt="Felipe-Docker" 
+  height="80" width="70" src="https://simpleskill.icons.workers.dev/svg?i=docker&perline=4">
+
 
  
 
